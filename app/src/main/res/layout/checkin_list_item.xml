@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/checkin_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Checkin Title"/>
+
+
+    <TextView
+        android:id="@+id/checkin_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Checkin Date"/>
+    <TextView
+        android:id="@+id/checkin_restaurant"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Restaurant Name"
+        />
+
+</LinearLayout>

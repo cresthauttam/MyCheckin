@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyCheckins</string>
+    <string name="checkin_title_hint"> title for the checkin.</string>
+    <string name="checkin_title_label">Title</string>
+    <string name="checkin_details_label">Details</string>
+    <string name="date_picker_title">Date of checkin: </string>
+    <string name="new_checkin">New checkin</string>
+    <string name="checkin_help"> Help</string>
+    <string name="checkin_image"> Click a photo</string>
+    <string name="checkin_comment_hint"> review </string>
+    <string name="checkin_restaurant_name"> Checkin Place</string>
+    <string name="checkin_restaurant_name_hint"> please type details here</string>
+    <string name="checkin_location"> Location</string>
+    <string name="checkin_restaurant_details"> Checkin Detail</string>
+    <string name="save"> Share </string>
+    <string name="delete_checkin"> Delete</string>
+    <string name="checkin_map"> Map</string>
+</resources>
